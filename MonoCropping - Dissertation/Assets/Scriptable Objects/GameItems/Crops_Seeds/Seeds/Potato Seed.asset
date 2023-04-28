@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ea50fffe30cb9142a86f745944ded4f, type: 3}
+  m_Name: Potato Seed
+  m_EditorClassIdentifier: 
+  _itemName: Potato Seed
+  _itemDescription: Seed to grow Potato
+  _thumbnail: {fileID: 21300000, guid: 54463ec44628d924592e98a20fe7180f, type: 3}
+  _itemModel: {fileID: 2209280493393090850, guid: 6775fedad8f98694490d9525d54c0b59, type: 3}
+  _currency: "\xA3"
+  _buyingCost: 1
+  _sellingCost: 1
+  _gameItemsDataType: 2
+  _isEdible: 0
+  _daysToGrow: 0.12
+  _reqWaterToGrow: 2
+  _cropToYield: {fileID: 11400000, guid: 42660136abd0a5043b1e82ee738542e7, type: 2}
+  _seedlingModel: {fileID: 1368898078748714812, guid: c7b98aaeab9861e46a9309d8205fbc36, type: 3}

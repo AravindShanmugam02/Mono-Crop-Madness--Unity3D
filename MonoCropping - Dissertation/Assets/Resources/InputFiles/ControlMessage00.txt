@@ -1,0 +1,10 @@
+1. W, S, A, D - Movement
+2. Mouse - Look around
+3. U - Shop open, Click on the shop icon to close.
+4. I - Inventory, Click on the inventory icon to close.
+5. Left Mouse Button - Select
+6. Right Mouse Button - Drop item in equiped slot (in inventory)
+7. Esc - Pause
+8. E - Interact
+9. Q - Stop Interact
+10. T - Tips

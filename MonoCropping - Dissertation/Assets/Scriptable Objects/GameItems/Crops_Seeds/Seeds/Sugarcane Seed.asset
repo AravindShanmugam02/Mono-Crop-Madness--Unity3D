@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ea50fffe30cb9142a86f745944ded4f, type: 3}
+  m_Name: Sugarcane Seed
+  m_EditorClassIdentifier: 
+  _itemName: Sugarcane Seed
+  _itemDescription: Seed to grow Sugarcane
+  _thumbnail: {fileID: 21300000, guid: 37c9856597fab7d4eb366caca61e988e, type: 3}
+  _itemModel: {fileID: 1745688761657170606, guid: e8713c19ad01bae418979b4fed72a59b, type: 3}
+  _currency: "\xA3"
+  _buyingCost: 1
+  _sellingCost: 1
+  _gameItemsDataType: 2
+  _isEdible: 0
+  _daysToGrow: 0.12
+  _reqWaterToGrow: 3
+  _cropToYield: {fileID: 11400000, guid: c7a7ffd707f230744a50f19d563b3edf, type: 2}
+  _seedlingModel: {fileID: 7491931780128669837, guid: 49cadc722e3943c4cbbf558c65bfe3dc, type: 3}

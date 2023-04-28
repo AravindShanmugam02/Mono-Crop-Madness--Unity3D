@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6decef03b5e6634d9f162356df710e1, type: 3}
+  m_Name: Shovel
+  m_EditorClassIdentifier: 
+  _itemName: Shovel
+  _itemDescription: A shovel is a tool for digging, lifting, and moving bulk materials,
+    such as soil, coal, gravel, snow, sand, or ore. Most shovels are hand tools consisting
+    of a broad blade fixed to a medium-length handle. Shovel blades are usually made
+    of sheet steel or hard plastics and are very strong.
+  _thumbnail: {fileID: 21300000, guid: c55a577694894264ab34746874aca12d, type: 3}
+  _itemModel: {fileID: 8461058124801998493, guid: 43302dc4aeb9e014d879146bb14cf12c, type: 3}
+  _currency: "\xA3"
+  _buyingCost: 1
+  _sellingCost: 1
+  _gameItemsDataType: 3
+  _isEdible: 0

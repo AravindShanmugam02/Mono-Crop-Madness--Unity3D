@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6decef03b5e6634d9f162356df710e1, type: 3}
+  m_Name: Hoe
+  m_EditorClassIdentifier: 
+  _itemName: Hoe
+  _itemDescription: A hoe is an ancient and versatile agricultural and horticultural
+    hand tool used to shape soil, remove weeds, clear soil, and harvest root crops.
+    Shaping the soil includes piling soil around the base of plants, digging narrow
+    furrows and shallow trenches for planting seeds or bulbs.
+  _thumbnail: {fileID: 21300000, guid: 208a99247450d93408d965afcf924069, type: 3}
+  _itemModel: {fileID: 8959427083240274204, guid: 4823576e272f4ed47b7ecd523651cc91, type: 3}
+  _currency: "\xA3"
+  _buyingCost: 1
+  _sellingCost: 1
+  _gameItemsDataType: 3
